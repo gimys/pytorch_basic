@@ -8,4 +8,6 @@
 - Pytorch로 시작하는 딥러닝(에이콘)
 ## 3. 진행 사항
 ### 1. Day 1 (2020.03.04)
-(학습 중)  
+- 다양한 차원의 tensor 표현  
+- tensor 연산과 gpu 연산 적용  
+[DAY1 notebook 링크](https://github.com/gimys/pytorch_basic/blob/master/day1/DAY1.ipynb)  
