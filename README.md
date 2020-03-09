@@ -14,5 +14,5 @@
 
 ### 2. Day 2 (2020.03.09)
 - torch 사용을 위한 python class 관련 정리  
-- 간단한 ANN 구성을 통해 모델 생성 실습
+- 간단한 ANN 구성을 통해 모델 생성 실습  
 [DAY2 notebook 링크](https://github.com/gimys/pytorch_basic/blob/master/day2/DAY2.ipynb)  
