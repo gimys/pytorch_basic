@@ -14,7 +14,8 @@
 [DAY1 notebook 링크](https://github.com/gimys/pytorch_basic/blob/master/day1/DAY1.ipynb)  
 
 ### 2. Day 2 (2020.03.09)
-- torch 사용을 위한 python class 관련 정리 
+- torch 사용을 위한 python class 관련 정리  
+- 모델이 작동하는 방법을 간단하게 
 [DAY2 notebook 링크](https://github.com/gimys/pytorch_basic/blob/master/day2/DAY2.ipynb)  
 
 ### 3. Day 3 (2020.03.18)
