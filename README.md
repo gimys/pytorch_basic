@@ -19,5 +19,8 @@
 [DAY2 notebook 링크](https://github.com/gimys/pytorch_basic/blob/master/day2/DAY2.ipynb)  
 
 ### 3. Day 3 (2020.03.18)
-- torch 사용을 ANN 실습  
+- torch를 사용한 ANN 실습  
 [DAY3 notebook 링크](https://github.com/gimys/pytorch_basic/blob/master/day3/DAY3.ipynb)  
+
+### 4. Day 4 (2020.03.18)
+- torch를 사용한 자연어 모델 실습  
